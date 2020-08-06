@@ -16,5 +16,7 @@ public class ReverseAString {
         }
         System.out.println(reverse);
     }
+    
+    // basarabilecek miyim
 
 }
